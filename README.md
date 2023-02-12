@@ -7,7 +7,7 @@ Hello there, I am Prabhash 👋
 
 I love learning and trying out new things. Recently I moved from India to Europe and currently trying to learn a new language (not programming but vocal language)
 
-### Speaking of Languages - These are my most used languages in contribution
+### Speaking of Languages - Here are my most used languages in contribution
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarprabhashanand&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
