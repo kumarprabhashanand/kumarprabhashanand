@@ -4,8 +4,8 @@ Senior Software Engineer at Zalando, Berlin. I build backend systems, mostly in 
 
 ### Things I've built or contributed to
 
-- **[OpenFeign: HTTP `QUERY` method support](https://github.com/OpenFeign/feign/pull/3454)** - added RFC 10008 `QUERY` to Feign core, the mock client and the HTTP cache. Examples in [rfc-10008-http-query-method](https://github.com/kumarprabhashanand/rfc-10008-http-query-method).
-- **[loremfile.dev](https://loremfile.dev)** - free CC0 sample files for every file type, with stable URLs and a SHA-256 for each file. Lorem Picsum, but for files. ([repo](https://github.com/kumarprabhashanand/loremfile))
+- **HTTP `QUERY` method ([RFC 10008](https://www.rfc-editor.org/rfc/rfc10008.html)) support** - merged in [OpenFeign](https://github.com/OpenFeign/feign/pull/3454), [Spring Cloud OpenFeign](https://github.com/spring-cloud/spring-cloud-openfeign/pull/1451) and [Spring Cloud Commons](https://github.com/spring-cloud/spring-cloud-commons/pull/1775), [urllib3](https://github.com/urllib3/urllib3/pull/5332) in review. Examples in [rfc-10008-http-query-method](https://github.com/kumarprabhashanand/rfc-10008-http-query-method).
+- **[loremfile.dev](https://loremfile.dev)** - free CC0 sample files for every file type, with stable URLs and a SHA-256 for each file. Lorem Picsum, but for files. Listed in [public-apis](https://github.com/public-apis/public-apis). ([repo](https://github.com/kumarprabhashanand/loremfile))
 - **[java-springboot-code-review](https://github.com/kumarprabhashanand/java-springboot-code-review)** - a Claude skill that reviews Java and Spring Boot code for the stuff linters miss: `@Transactional` traps, N+1 queries, IDOR, race conditions.
 - **[ai-product-team](https://github.com/kumarprabhashanand/ai-product-team)** - 11 Claude Code sub-agents that work like a small product team: PM, engineering, code review, QA, security, DevOps.
 
@@ -15,7 +15,7 @@ gRPC ([4 API types](https://github.com/kumarprabhashanand/grpc-apis), [OAuth2](h
 
 ### I also write sometimes
 
-21 articles on [Medium](https://medium.com/@kumarprabhashanand) (gRPC, OAuth2, OpenTelemetry, HTTP/2, Quarkus, TDD/BDD, AI & LLMs for software engineers), Java articles for Baeldung, and the odd post on [dev.to](https://dev.to/prabhash_me). Latest three:
+21 articles on [Medium](https://medium.com/@kumarprabhashanand) (gRPC, OAuth2, OpenTelemetry, HTTP/2, Quarkus, TDD/BDD, AI & LLMs for software engineers), Java articles for Baeldung, and the odd post on [dev.to](https://dev.to/prabhash_me) (latest: [The WAV header is not 44 bytes](https://dev.to/prabhash_me/the-wav-header-is-not-44-bytes-52la)). Latest three:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kumarprabhashanand/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kumarprabhashanand/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kumarprabhashanand/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kumarprabhashanand/1" alt="Recent Article 1"></a>
