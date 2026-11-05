@@ -23,6 +23,6 @@ gRPC ([4 API types](https://github.com/kumarprabhashanand/grpc-apis), [OAuth2](h
 
 ### Say hi
 
-[LinkedIn](https://www.linkedin.com/in/kumarprabhashanand/) · [Medium](https://medium.com/@kumarprabhashanand) · [Website](https://kumarprabhashanand.github.io)
+[LinkedIn](https://www.linkedin.com/in/kumarprabhashanand/) · [Medium](https://medium.com/@kumarprabhashanand) · [Website](https://prabhash.net)
 
 Feel free to reach out if you just want to connect or need any help.
